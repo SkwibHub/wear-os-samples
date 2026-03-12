@@ -1,14 +1,14 @@
 [versions]
-agp = "9.0.0"
+agp = "9.1.0"
 wear-compose-material3 = "1.5.6"
 wear-compose = "1.5.6"
 compose-tooling = "1.5.6"
 kotlin = "2.3.0"
 lifecycleViewmodelKtx = "2.10.0"
-composeBom = "2026.01.00"
-activityCompose = "1.12.2"
+composeBom = "2026.03.00"
+activityCompose = "1.13.0"
 coreSplashscreen = "1.2.0"
-watchfacePush = "1.0.0-beta01"
+watchfacePush = "1.0.0-rc01"
 horologist = "0.7.15"
 
 [libraries]
